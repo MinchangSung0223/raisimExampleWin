@@ -1,11 +1,20 @@
 # raisimExampleWin
 
 1. Install CMake
+
    windows:  https://github.com/Kitware/CMake/releases/download/v3.26.4/cmake-3.26.4-windows-x86_64.msi
+   
 3. Install raisimLib
+
    1) License : https://raisim.com/sections/License.html , https://docs.google.com/forms/d/e/1FAIpQLScNL0vbZPDNS93L6Jv6fgR51WTsvXxfhnVOtKDVRdAmHIoG4w/viewform
-   2) github : https://github.com/raisimTech/raisimLib
-   3) Unreal Visualizer : https://github.com/raisimTech/raisimLib/releases/tag/v1.1.5 , 10016version
+
+
+   3) github : https://github.com/raisimTech/raisimLib
+
+
+   5) Unreal Visualizer : https://github.com/raisimTech/raisimLib/releases/tag/v1.1.5 , 10016version
+
+
 5. Install
   ```bash
    git clone https://github.com/MinchangSung0223/raisimExampleWin.git
